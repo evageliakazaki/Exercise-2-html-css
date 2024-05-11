@@ -1,0 +1,44 @@
+/* styles.css */
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:cornflowerblue;
+    color: black;
+}
+
+h1{
+    font-style: italic;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    color: black;
+}
+main div {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+img {
+    border: 3px solid #333;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+video {
+    border: 3px solid #333;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+#footer1{
+    color:crimson;
+}
+#about{
+    text-align: center;
+}
